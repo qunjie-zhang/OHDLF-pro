@@ -21,7 +21,7 @@ conda install -c bioconda iqtree aster blast raxml mafft
 users can download the OHDLF.yaml file to directly configure the environment.
 ## Install
 ```
-pip install OHDLF-pro
+pip install ohdlf-pro
 ```
 
 ## Quick Start
