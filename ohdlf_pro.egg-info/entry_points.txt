@@ -1,0 +1,2 @@
+[console_scripts]
+OHDLF-pro = OHDLF_pro.main:run

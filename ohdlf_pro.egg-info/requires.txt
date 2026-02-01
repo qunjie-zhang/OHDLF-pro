@@ -1,0 +1,6 @@
+biopython
+tqdm
+treeswift
+
+[:python_version < "3.8"]
+importlib-metadata
